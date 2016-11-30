@@ -2,16 +2,19 @@ body {
     font-family: 'Lato', sans-serif;
     color: #070508;
     background-color:beige;
+    text-align: center;
     
 }
 
-h1 {
+h1, h2 {
     text-align: center;
 }
 
-h2 {
-    text-align: center;
+
+p, p2 {
+    text-align: left;
 }
+
 
 /*Stopka*/
 footer {
@@ -26,3 +29,4 @@ footer {
     padding: 10px;
         
 }
+/*Stopka Stop*/
